@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9507
     wikipedia: http://de.wikipedia.org/wiki/Ludwig_B%C3%BCchner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20757#Darwinismus-und-SozialismusDer-Kampf-um-das-Dasein-und-die-Moderne-Gesellschaft
 gutenberg_bookshelf:
 - DE Sachbuch
 - German Language Books
